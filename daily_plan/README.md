@@ -6,6 +6,6 @@
 
 ## 2021.Jan.06 (Wed)
 
-- ~~Angular JS 블로그 강의 끝내기 (TIL)에 기록
+- ~~Angular JS 블로그 강의 끝내기 (TIL)에 기록~~
 - AWS 30문제 공부 -> 집도착해서 복습
 - 알고리즘 ATM & BFS 강의 복습
