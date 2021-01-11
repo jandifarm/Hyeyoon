@@ -49,4 +49,6 @@ Python 알고리즘 인강 이번주에 마무리
 
 [알고리즘 공부](https://github.com/hyeyoon0808/Algorithm_Study)
 
+앵귤러 
+
 포트폴리오 깃헙에도 정리
