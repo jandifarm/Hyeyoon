@@ -10,7 +10,7 @@
 
 !AWS pro 자격증 공부! - 하루 최소 20 -> 다음주 안에 따기 목표!
 
-[알고리즘 공부](https://github.com/hyeyoon0808/Algorithm_Study)
+[알고리즘 공부](https://github.com/hyeyoon0808/Algorithm_Study) - 하루에 최소 한문제
 
 포트폴리오 깃헙에도 정리
 
