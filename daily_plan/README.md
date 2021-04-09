@@ -67,7 +67,14 @@
 - Openstack 정리
 - 블로그 다시 정리 해놓기 (logback)
 - Spring 복습 (inflearn)
-- 요가
+- ~~요가~~
+
+
+## 2021.Apr.09 (Fri)
+- 알고리즘 1~2문제 sol
+- 블로그 다시 정리 해놓기 (logback)
+- Spring 복습 (inflearn)
+- ~~요가~~
 
 
 
