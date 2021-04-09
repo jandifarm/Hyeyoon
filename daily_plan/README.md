@@ -72,7 +72,7 @@
 
 ## 2021.Apr.09 (Fri)
 - 알고리즘 1~2문제 sol
-- 블로그 다시 정리 해놓기 (logback)
+- openstack 학습 및 정리
 - Spring 복습 (inflearn)
 - ~~요가~~
 
