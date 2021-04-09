@@ -63,7 +63,7 @@
 - ~~명상~~
 
 ## 2021.Apr.08 (Thu)
-- 알고리즘 1~2문제 sol
+- ~~알고리즘 1~2문제 sol~~
 - Openstack 정리
 - 블로그 다시 정리 해놓기 (logback)
 - Spring 복습 (inflearn)
