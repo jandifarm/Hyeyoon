@@ -80,3 +80,8 @@
 - React 복습 (inflearn)
 - ~~복싱~~
 
+## 2021.Apr.14 (Wed)
+- ~~알고리즘 1~2문제 sol~~
+- React 복습 (inflearn)
+- 운동
+
